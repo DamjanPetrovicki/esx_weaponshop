@@ -5,10 +5,10 @@ Config.Size          = { x = 1.5, y = 1.5, z = 0.5 }
 Config.Color         = { r = 0, g = 128, b = 255 }
 Config.Type          = 1
 
-Config.Locale        = 'fr'
+Config.Locale        = 'hr'
 
 Config.LicenseEnable = false -- only turn this on if you are using esx_license
-Config.LicensePrice  = 5000
+Config.LicensePrice  = 15000
 
 Config.Zones = {
 
@@ -24,7 +24,8 @@ Config.Zones = {
 			vector3(22.0, -1107.2, 28.8),
 			vector3(2567.6, 294.3, 107.7),
 			vector3(-1117.5, 2698.6, 17.5),
-			vector3(842.4, -1033.4, 27.1)
+			vector3(842.4, -1033.4, 27.1),
+			vector3(-1306.2, -394.0, 35.6)
 		}
 	},
 
@@ -32,7 +33,7 @@ Config.Zones = {
 		Legal = false,
 		Items = {},
 		Locations = {
-			vector3(-1306.2, -394.0, 35.6)
+			vector3(-1593.156494, 5192.740234, 4.310093)
 		}
 	}
 
